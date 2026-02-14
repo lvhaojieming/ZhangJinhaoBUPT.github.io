@@ -1,14 +1,32 @@
+# Jinhao Zhang
 
+**Undergraduate Student**
+School of Electronic Engineering
+[Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/)
 
-![zhangjinhao](https://img.shields.io/badge/Lvhaoojieming-github-blue?logo=github)
+**Visiting Student**
+[Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)](http://www.ict.cas.cn/)
 
-Undergraduate student at the School of Electronic Engineering, [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/). Engaged in research on Large Language model inference acceleration and model quantization.  Visiting student at [the Institute of Computing Technology, Chinese Academy of Sciences](http://www.ict.cas.cn/)actively involved in related research on LLM.
-#### Email
-[zhangjinhao315@bupt.edu.cn](mailto:zhangjinhao315@bupt.edu.cn)
+📧 **Email:** [zhangjinhao315@bupt.edu.cn](mailto:zhangjinhao315@bupt.edu.cn)  
+🐙 **GitHub:** [@Lvhaoojieming](https://github.com/Lvhaoojieming)
 
-#### Education
-B.E. Computer Science, Beijing University of Posts and Telecommunications, 2023—2027 (expected)
+---
 
-#### Research Interests
-Deep Learning, LLM Quantization, Reinforcement Learning, MoE
+## 📖 Biography
+
+I am currently pursuing my bachelor's degree at **Beijing University of Posts and Telecommunications (BUPT)**.
+
+My research primarily focuses on **Efficient AI** and **LLM Post-training**. I am particularly interested in building efficient and aligned large language models through quantization and reinforcement learning techniques.
+
+## 🎓 Education
+
+* **2023 - 2027 (Expected):** B.E. in Computer Science, *Beijing University of Posts and Telecommunications*
+
+## 🔭 Research Interests
+
+My current research interests center around efficient deep learning and LLMs:
+* **Model Quantization** 
+* **Inference Acceleration**
+* **Reinforcement Learning**
+* **Mixture of Experts (MoE)**
 
