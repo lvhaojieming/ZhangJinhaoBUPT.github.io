@@ -31,3 +31,5 @@ My current research interests center around deep learning and LLMs:
 * **Inference Acceleration**
   
 [**[📄 CV/Resume]**](../Jinhao_Zhang_CV.pdf) &nbsp;|&nbsp; [**[🎓 Google Scholar]**](https://scholar.google.com.pk/citations?user=ZYPwzTQAAAAJ&hl=en) &nbsp;|&nbsp; [**[🐙 GitHub]**](https://github.com/Lvhaoojieming)
+
+[![CV](https://img.shields.io/badge/CV-PDF-b31b1b?logo=adobe-acrobat-reader&logoColor=white)](../Jinhao_Zhang_CV.pdf)
