@@ -24,7 +24,7 @@ My research primarily focuses on **Efficient AI** and **LLM Post-training**. I a
 
 ## 🔭 Research Interests
 
-My current research interests center around efficient deep learning and LLMs:
+My current research interests center around deep learning and LLMs:
 * **Model Quantization** 
 * **Reinforcement Learning**
 * **Mixture of Experts (MoE)**
