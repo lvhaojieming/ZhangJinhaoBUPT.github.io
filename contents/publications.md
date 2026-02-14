@@ -48,7 +48,7 @@
       <strong>Jinhao Zhang</strong>, Yunquan Zhang, Boyang Zhang, Zeyu Liu, Daning Cheng
     </div>
     <div style="color: #666; font-size: 14px; font-style: italic; margin-bottom: 15px; border-bottom: 1px solid #eee; padding-bottom: 10px;">
-      Preprint • Under Review for <strong style="color: #d73a49;">ICLR 2026</strong> • Aug 2025
+      Preprint • Under Review for <strong style="color: #d73a49;">ICML 2026</strong> • Aug 2025
     </div>
     <div style="display: flex; gap: 10px;">
       <a href="http://arxiv.org/abs/2508.09204">
