@@ -1,4 +1,4 @@
-# Jinhao Zhang
+# 张津豪
 
 **Undergraduate Student**
 School of Electronic Engineering
