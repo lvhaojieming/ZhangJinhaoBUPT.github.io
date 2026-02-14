@@ -29,5 +29,5 @@ My current research interests center around deep learning and LLMs:
 * **Reinforcement Learning**
 * **Mixture of Experts (MoE)**
 * **Inference Acceleration**
-* 
-[**[📄 CV/Resume]**](./Jinhao_Zhang_CV.pdf) &nbsp;|&nbsp; [**[🎓 Google Scholar]**](https://scholar.google.com.pk/citations?user=ZYPwzTQAAAAJ&hl=en) &nbsp;|&nbsp; [**[🐙 GitHub]**](https://github.com/Lvhaoojieming)
+  
+[**[📄 CV/Resume]**](../Jinhao_Zhang_CV.pdf) &nbsp;|&nbsp; [**[🎓 Google Scholar]**](https://scholar.google.com.pk/citations?user=ZYPwzTQAAAAJ&hl=en) &nbsp;|&nbsp; [**[🐙 GitHub]**](https://github.com/Lvhaoojieming)
