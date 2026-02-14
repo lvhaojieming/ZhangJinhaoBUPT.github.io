@@ -5,7 +5,7 @@
 
 - **CALM: A CKA-Guided Adaptive Layer-Wise Modularization Framework for LLM Quantization**
 \
-  **Jinhao Zhang**, Yunquan Zhang, Daning Chen, JunSun, Zicheng Yan
+  **Jinhao Zhang**, Yunquan Zhang, Daning Cheng, JunSun, Zicheng Yan
   [[arXiv](http://arxiv.org/abs/2512.16282)]
 
 - **HeRo-Q: A General Framework for Stable Low Bit Quantization via Hessian Conditioning**
