@@ -26,7 +26,6 @@ My research primarily focuses on **Efficient AI** and **LLM Post-training**. I a
 
 My current research interests center around efficient deep learning and LLMs:
 * **Model Quantization** 
-* **Inference Acceleration**
 * **Reinforcement Learning**
 * **Mixture of Experts (MoE)**
-
+* **Inference Acceleration**
